@@ -1,8 +1,7 @@
 # geobrand
-Hub LPs on Google Maps
+Monitor Local Businesses serving a product on Google Maps
 
-This project basically shows all local providers (for a hub) on Google Map. The Info window contains ratings and reviews for 
-the local provider. 
+This project basically shows all local businesses (for a client (for example Bridgestone/Firestone) on Google Map. The Info window contains ratings and reviews for the local business. 
 
 It uses Nodejs, express, ejs, google map geocoding apis, postgresql.
 
